@@ -1,7 +1,7 @@
 Package.describe({
   name: 'excelnet:schema-index',
   summary: 'Control some MongoDB indexing with schema options',
-  version: '3.0.1',
+  version: '3.0.2',
   documentation: '../../README.md',
   git: 'https://github.com/ExcelNet-Public/meteor-schema-index.git',
 });
