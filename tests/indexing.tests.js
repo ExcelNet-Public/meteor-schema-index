@@ -4,7 +4,7 @@ import expect from 'expect';
 import { Meteor } from 'meteor/meteor';
 import { Mongo } from 'meteor/mongo';
 import { Random } from 'meteor/random';
-import SimpleSchema from 'simpl-schema';
+import SimpleSchema from '@excelnetinc/simpl-schema';
 
 const test = new Mongo.Collection('test');
 test.attachSchema(new SimpleSchema({

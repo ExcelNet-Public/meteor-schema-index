@@ -1,16 +1,14 @@
-[![CircleCI](https://circleci.com/gh/aldeed/meteor-schema-index/tree/master.svg?style=svg)](https://circleci.com/gh/aldeed/meteor-schema-index/tree/master)
-
-aldeed:schema-index
+excelnet:schema-index
 =========================
 
-A Meteor package that allows you to control some MongoDB indexing from your SimpleSchema. This package is currently included automatically with the aldeed:collection2 package.
+A Meteor package that allows you to control some MongoDB indexing from your SimpleSchema. This package is currently included automatically with the excelnet:collection2 package.
 
 ## Installation
 
 In your Meteor app directory, enter:
 
 ```
-$ meteor add aldeed:schema-index
+$ meteor add excelnet:schema-index
 ```
 
 ## Usage

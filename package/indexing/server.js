@@ -1,4 +1,4 @@
-import Collection2 from 'meteor/aldeed:collection2';
+import Collection2 from 'meteor/excelnet:collection2';
 import { Meteor } from 'meteor/meteor';
 
 import './common';
